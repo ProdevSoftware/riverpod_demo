@@ -1,16 +1,12 @@
-# riverpod_demo
+# Fetch User Using Riverpod in Flutter
 
-A new Flutter project.
+This Flutter project demonstrates how to fetch user data using Riverpod, a state management library for Flutter. Riverpod is built on top of Provider and offers a more flexible and improved approach to managing state in Flutter applications.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Riverpod State Management**: Utilizes Riverpod for managing user state and data fetching.
+- **Asynchronous Data Fetching**: Fetches user data asynchronously from a remote API.
+- **UI Integration**: Integrates user data into the Flutter UI for display.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![ImportedPhoto_1715411717633](https://github.com/ProdevSoftware/riverpod_demo/assets/97152083/08dc7317-0855-44c2-a32d-652aa8838657)
